@@ -1,9 +1,11 @@
 # Crickfront
 Real-time Updates: Implement WebSockets for instant score updates, ensuring a seamless user experience without constant polling.
+
 Efficient Caching: Use server-side caching (like Redis) and client-side caching (localStorage) to reduce load and improve performance.
+
 RESTful API: Design a well-structured API for managing data requests, with support for pagination and filtering.
+
 Responsive UI: Utilize Angular Material or Bootstrap for a responsive design that works on all devices, and incorporate real-time data visualization with libraries like ngx-charts.
-Security and Performance: Secure your API endpoints with HTTPS and authentication, and optimize both frontend and backend for better load handling.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
 IN this project - We have frontend of website and it looks like
